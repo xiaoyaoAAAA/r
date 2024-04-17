@@ -1,13 +1,20 @@
 {
-    "urls": [
-{"url":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"影视"},
-	{"url":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json","name":"动漫"},
-	{"url":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/api.json","name":"体育"},
-	{"url":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/api.json","name":"教育"},
-	{"url":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/api.json","name":"直播"},
-	{"url":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json","name":"云盘"},
-	{"url":"https://raw.githubusercontent.com/xiaoyaoAAAA/Z/main/.json","name": "无痕线路"}
-	
-   ]
-   }
-
+  "storeHouse": [
+    {
+      "sourceName": "🦉个人仓",
+      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/my.json"
+    },
+    {
+      "sourceName": "🐋潇洒仓",
+      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"
+    },
+    {
+      "sourceName": "🥗聚合仓",
+      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/优质.json"
+    },
+    {
+      "sourceName": "🔞聚合仓",
+      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/cr.json"
+    }
+  ]
+}

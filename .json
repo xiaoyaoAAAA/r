@@ -4,12 +4,23 @@
       "name": "👿饭太硬",
       "url": "http://www.饭太硬.net/tv"
     },
-{"url":"https://raw.githubusercontent.com/aojianhc/tvbox/refs/heads/main/ZY1.json","name":"SVIP📚在线"},
+{"url":"https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json","name":"XC在线"},
  {"url":"http://feimao.pro","name":"肥猫线路"},
-{"url": "https://raw.githubusercontent.com/zxsjc/tvbox/main/yz/tvbox.json","name": "燕子"},
-{"url":"https://9280.kstore.vip/newwex.json","name":"王二小"},
- {"url":"https://raw.githubusercontent.com/leexuben/TVBOX-merge/refs/heads/main/api.json","name":"湯影視"},      
-{ "url": "https://raw.githubusercontent.com/zheng197600/tvbox/refs/heads/main/0820.json", "name": "多多" },      
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/xiaosa/origin.json","name": "燕子"},
+ {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/moyu/my.json",
+            "name": "摸鱼"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/huban/hb.json",
+            "name": "虎斑"
+        }, 
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/wangerxiao/wex.json",
+            "name": "王二小"
+        },
+ {"url":"https://gh-proxy.org/https://raw.githubusercontent.com/leexuben/TVBOX-merge/refs/heads/main/api.json","name":"湯影視"},      
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/tvbox/refs/heads/main/0820.json", "name": "多多" },      
 {"url":"https://tv.蜗牛.top/svip","name":"💌蜗牛影视🚀"},
 {"url":"https://box.iqinu.com/","name":"🐉龙门影视"},
 {"url":"http://fmys.top/fmys.json","name":"❤驸马影视"},
@@ -26,10 +37,10 @@
       "url": "http://cdn.qiaoji8.com/tvbox.json",
       "name": "🔮巧记🔮🚦"
     },  
-     {
-      "url": "https://raw.githubusercontent.com/houzi0939/tvbox/refs/heads/main/新道长/index.json",
-      "name": "🅱️道长🅱️🚦"
-    },  
+      {
+            "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/guodaxia/gdx.json",
+            "name": "锅大侠"
+        },  
      {
       "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "🥰香雅晴🥰🚦"
